@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glyph Call Wave</string>
+    <string name="notification_channel_name">Call waveform</string>
+    <string name="notification_text">Waveform active on Glyph Matrix</string>
+    <string name="status_not_started">Not running</string>
+    <string name="status_running">Running — watching for calls</string>
+    <string name="status_denied">Permissions denied — tap to try again</string>
+    <string name="start_button">Grant permissions &amp; start</string>
+</resources>
